@@ -2,3 +2,4 @@ Title: Voron 0 - Sherpa Mini Mount
 Creator: BoothyBoothy: https://www.thingiverse.com/boothyboothy/designs
 Source: https://www.thingiverse.com/thing:5217686
 License: CC-BY-4.0
+Relicensed under GNU General Public License v3.0 with the permission of the author 
